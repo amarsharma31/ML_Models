@@ -1,2 +1,2 @@
-# All_61326
+# Machine Learning Model
 Image Processing Data Model
